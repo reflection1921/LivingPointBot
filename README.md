@@ -1,7 +1,7 @@
 # LivingPointBot
 Living Point bot for KakaoStory
 
-You need Newtonsoft's JSON.NET, MySQL Server, IgnaceMaes' MaterialSkin, MySQL .NET Connector.
-JSON.NET: https://www.newtonsoft.com/json
-MaterialSkin made by IgnaceMaes: https://github.com/IgnaceMaes/MaterialSkin
-MySQL: https://www.mysql.com
+1.You need Newtonsoft's JSON.NET, MySQL Server, IgnaceMaes' MaterialSkin, MySQL .NET Connector.
+2.JSON.NET: https://www.newtonsoft.com/json
+3.MaterialSkin made by IgnaceMaes: https://github.com/IgnaceMaes/MaterialSkin
+4.MySQL: https://www.mysql.com
